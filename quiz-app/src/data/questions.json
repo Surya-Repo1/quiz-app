@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correct_answer": "Paris"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "correct_answer": "Mars"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+    "correct_answer": "William Shakespeare"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Gold", "Osmium", "Zinc"],
+    "correct_answer": "Oxygen"
+  },
+  {
+    "question": "In which year did the World Wide Web become publicly available?",
+    "options": ["1983", "1991", "1995", "2000"],
+    "correct_answer": "1991"
+  }
+]

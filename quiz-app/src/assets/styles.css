@@ -1,0 +1,75 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background: #f4f6f8;
+  margin: 0;
+  padding: 0;
+  height: 100vh; /* full height */
+  display: flex;
+  align-items: center; /* vertical center */
+  justify-content: center; /* horizontal center */
+}
+
+.app-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+}
+
+.question-card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.1);
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.option-btn {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  cursor: pointer;
+  background: #fafafa;
+}
+
+.option-btn:hover {
+  background: #eaeaea;
+}
+
+.option-btn.selected {
+  background: #007bff;
+  color: white;
+}
+
+.btn {
+  padding: 10px 20px;
+  margin-top: 20px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.results-container {
+  text-align: left;
+}
+
+.progress-bar {
+  background: #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+.progress {
+  height: 8px;
+  background: #007bff;
+}
