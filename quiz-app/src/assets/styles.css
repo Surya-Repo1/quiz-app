@@ -18,7 +18,7 @@ body {
 }
 
 .question-card {
-  background: white;
+  /* background: white; */
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 12px;
@@ -36,11 +36,11 @@ body {
   border: 1px solid #ddd;
   border-radius: 8px;
   cursor: pointer;
-  background: #fafafa;
+  /* background: #fafafa; */
 }
 
 .option-btn:hover {
-  background: #eaeaea;
+  /* background: #eaeaea; */
 }
 
 .option-btn.selected {
